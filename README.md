@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/surya0369](https://www.linkedin.com/in/suryapratap-singh-929b0a15a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Surya" height="30" width="40" /></a>
+<a href="https://codepen.io/surya0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Surya" height="30" width="40" /></a>
 <a href="https://dev.to/ammyy9908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ammyy9908" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suryapratap-singh-929b0a15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryapratap-singh-929b0a15a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tubelighter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tubelighter" height="30" width="40" /></a>
