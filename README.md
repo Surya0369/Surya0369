@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [js-pool](https://github.com/Ammyy9908/js-pool)
+- 🔭 I’m currently working on [js-learning](https://github.com/Surya0369/JSHINDI)
 
 - 🌱 I’m currently learning **swift language**
 
